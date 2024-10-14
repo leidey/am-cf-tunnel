@@ -3,7 +3,7 @@
 104.17.142.12:443#HK12
 104.17.68.85:443#HK85
 104.17.71.31:443#HK31
+27.50.49.73:443#HK73
 icook.tw#icook.tw
 skk.moe#skk.moe
-www.4chan.org#www.4chan.org
 www.ddwhm.com#www.ddwhm.com
