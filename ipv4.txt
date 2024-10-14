@@ -4,6 +4,8 @@
 104.17.68.85:443#HK85
 104.17.71.31:443#HK31
 27.50.49.73:443#HK73
-icook.tw#icook.tw
+47.238.40.58:443#HK58
+146.56.133.140:443#KR140
+152.70.249.67:443#KR67
 skk.moe#skk.moe
-www.ddwhm.com#www.ddwhm.com
+www.ddwhm.com#ddwhm.com
