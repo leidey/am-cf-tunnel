@@ -7,3 +7,7 @@
 104.21.232.11:443#US11
 104.19.35.145:443#US145
 152.70.39.86:443#KR86
+8.889288.xyz
+cf.0sm.com
+xn--b6gac.eu.org
+bestproxy.onecf.eu.org
